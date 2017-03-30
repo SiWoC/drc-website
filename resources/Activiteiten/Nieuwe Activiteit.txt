@@ -1,0 +1,7 @@
+Activiteiten
+- Maak een hoofdfoto van 1280x748
+- Gebruik template Activiteit hoofdfoto 1280x748.psd
+	- Plaats DRC_derijdercentraal.nl.logo.transp.wit 1200x173+40px.png eroverheen 748-253=495 pixels van boven
+- Voeg de rit-titel toe "DRC©Eifel 2016" in Rockwell 48 punts FFFFFF=255,255,255 (wit) of 9B9B9B=155,155,155 (het donkergrijs van de tekst)
+- voor de kleine plaatjes maak 4,5 of 6 plaatjes van gelijke grootte/verhouding bijvoorbeeld 750x500=3:2 of 912x684=4:3
+- Voeg op de kleine plaatjes het logo toe. Gebruik respectievelijk het 500=125 of 684=171 pixel logo
