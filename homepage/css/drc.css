@@ -198,3 +198,7 @@ T4 {
 	color: black;
 }
 
+/* gebruikt in de flyer-carousel in de rechterkolom */
+.mySlides {
+	display:none;
+}
