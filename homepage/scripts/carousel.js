@@ -1,5 +1,5 @@
-/* De random start "ergens" in de eerste 10, als er minder dan 10 slides zijn, dan wordt het weer de 1e */
-var myIndex = Math.floor((Math.random() * 10));
+/* De random start "ergens" in de eerste 13, als er minder dan 13 slides zijn, dan wordt het weer de 1e */
+var myIndex = Math.floor((Math.random() * 13));
 carousel();
 
 function carousel() {
